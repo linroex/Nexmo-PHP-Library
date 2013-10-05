@@ -1,3 +1,7 @@
+修改自：
++ https://github.com/jeremy5189/nexmo-tts-zh
++ https://github.com/prawnsalad/Nexmo-PHP-lib
+
 Sending SMS via the Nexmo SMS gateway.
 
 
